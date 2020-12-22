@@ -1,0 +1,8 @@
+{
+  "block.chemistrymod.testtuberackblock": "Test Tube Rack",
+  "_comment": "Creative Tabs",
+  "itemGroup.Chemistry": "Chemistry",
+  "item.chemistrymod.hydrogen": "Hydrogen",
+  "item.chemistrymod.test_tube": "Test Tube",
+  "item.chemistrymod.oxygen": "Oxygen"
+}

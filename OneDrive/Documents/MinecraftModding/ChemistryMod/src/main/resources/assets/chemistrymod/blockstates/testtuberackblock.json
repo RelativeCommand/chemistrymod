@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=north": {"model": "chemistrymod:block/testtuberackblock"},
+    "facing=south": {"model": "chemistrymod:block/testtuberackblock","y": 180},
+    "facing=west": {"model": "chemistrymod:block/testtuberackblock", "y": 270},
+    "facing=east": {"model": "chemistrymod:block/testtuberackblock", "y": 90},
+    "facing=up": {"model": "chemistrymod:block/testtuberackblock", "x": -90},
+    "facing=down": {"model": "chemistrymod:block/testtuberackblock", "x": 90}
+}
+}

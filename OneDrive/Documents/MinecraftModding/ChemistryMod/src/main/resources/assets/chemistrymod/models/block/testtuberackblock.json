@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "chemistrymod:block/testtuberackblock",
+    "down": "chemistrymod:block/testtuberackblock",
+    "up": "chemistrymod:block/testtuberackblock",
+    "east": "chemistrymod:block/testtuberackblock",
+    "west": "chemistrymod:block/testtuberackblock",
+    "north": "chemistrymod:block/testtuberackblock_front",
+    "south": "chemistrymod:block/testtuberackblock"
+  }
+}
